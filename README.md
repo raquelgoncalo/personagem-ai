@@ -1,5 +1,7 @@
 # 🎮 Personagem AI
 
+<img width="1920" height="879" alt="image" src="https://github.com/user-attachments/assets/494575ed-f00d-4f73-82a9-619d80e7dd13" />
+
 Uma experiência interativa que permite escolher personagens ilustrados ou transformar uma foto em um personagem com estilo de videogame usando inteligência artificial.
 
 ## ✨ Funcionalidades
@@ -58,3 +60,6 @@ personagem-ai/
 Projeto experimental para praticar desenvolvimento front-end, manipulação do DOM, eventos JavaScript e integração com serviços de inteligência artificial para geração de imagens.
 
 *Projeto desenvolvido para fins de aprendizado e experimentação com tecnologias web e inteligência artificial.*
+
+<a href="https://raquelgoncalo.github.io/personagem-ai/">Live Preview</a>
+========
